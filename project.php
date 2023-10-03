@@ -27,8 +27,4 @@ class product
 $obj = new product(1, "T-shirt", 19.99);
 $obj->showDetails();
 
-
-
-
-
 ?>
